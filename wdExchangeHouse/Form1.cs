@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 /// <summary>
 /// Fecha: 18/04/2022 at 12:00 pm
-/// Autores: Maicol Arroyave Alvarez, Oscar David Ramos, Sara Daniela Parra Betancur
+/// Autores: Maicol Arroyave Alvarez, Oscar David Ramos, Sara Daniela Parra Betancur, Natalia Usuga Manco
 /// Descripción: casa de cambio
 /// </summary>
 
